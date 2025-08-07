@@ -1,8 +1,5 @@
 {
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "https://doctor-app-u6og.onrender.com/api/doctors"
-    }
-  ]
+  "routes": {
+    "/api/*": "https://doctor-app-u6og.onrender.com/api/"
+  }
 }
