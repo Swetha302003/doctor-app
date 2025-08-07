@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sheelavathi Natraj",
+    "specialty": "Dermatologist",
+    "location": "JP Nagar, Bangalore",
+    "experience": "21 years",
+    "rating": "94%",
+    "fee": "₹800",
+    "clinic": "Sapphire Skin And Aesthetics Clinic",
+    "availability": "Available Today",
+    "stories": "1506 Patient Stories"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Sanjay",
+    "specialty": "Dermatologist",
+    "location": "Jayanagar, Bangalore",
+    "experience": "11 - 13 years",
+    "rating": "97%",
+    "fee": "₹800",
+    "clinic": "Aesthetic Heart Dermatology & Cardiology Clinic",
+    "availability": "Available Today",
+    "stories": "159 Patient Stories"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Sharma",
+    "specialty": "Dermatologist",
+    "location": "JP Nagar, Bangalore",
+    "experience": "8 years",
+    "rating": "91%",
+    "fee": "₹700",
+    "clinic": "Glow Skin Clinic",
+    "availability": "Available Tomorrow",
+    "stories": "842 Patient Stories"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rahul Mehta",
+    "specialty": "Dermatologist",
+    "location": "Jayanagar, Bangalore",
+    "experience": "15 years",
+    "rating": "89%",
+    "fee": "₹900",
+    "clinic": "Skin Revive Dermatology",
+    "availability": "Available Today",
+    "stories": "602 Patient Stories"
+  }
+]
